@@ -31,6 +31,6 @@ torchrun \
     --num_inference_steps 4 \
     --shift 5.0 \
     --guidance_scale 1.0 \
-    --fps 8 \
+    --fps 16 \
     --chunk_latent_frames 4 \
     --stabilization_level 1
