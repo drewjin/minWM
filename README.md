@@ -229,6 +229,8 @@ Three model lines × two phases × four stages, each documented as **(1) Model d
 If minWM helps your research, please cite:
 
 ```bibtex
+
+# ICML 2026
 @article{zhu2026causal,
   title={Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation},
   author={Zhu, Hongzhou and Zhao, Min and He, Guande and Su, Hang and Li, Chongxuan and Zhu, Jun},
@@ -236,10 +238,19 @@ If minWM helps your research, please cite:
   year={2026}
 }
 
+# Technical Report
 @article{zhao2026causal,
   title={Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation},
   author={Zhao, Min and Zhu, Hongzhou and Zheng, Kaiwen and Zhou, Zihan and Yan, Bokai and Li, Xinyuan and Yang, Xiao and Li, Chongxuan and Zhu, Jun},
   journal={arXiv preprint arXiv:2605.15141},
+  year={2026}
+}
+
+# Technical Report
+@article{zhao2026minwm,
+  title={minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models},
+  author={Zhao, Min and Zhu, Hongzhou and Yan, Bokai and Zhou, Zihan and Chen, Yimin and Sun, Wenqiang and Zheng, Kaiwen and He, Guande and Yang, Xiao and Li, Chongxuan and others},
+  journal={arXiv preprint arXiv:2605.30263},
   year={2026}
 }
 
