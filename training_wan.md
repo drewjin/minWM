@@ -28,6 +28,8 @@ export PYTHONPATH="$PWD/HY15:$PWD/Wan21:$PWD/shared:$PYTHONPATH"
 
 ### 1.1 Phase 1: Bidirectional SFT
 
+> By default, 16 machines ensure gbs=32. If there are fewer machines, you need to disable sp and enable ga. Same below.
+
 <details>
 <summary><b>Expand</b> (model download / data preparation / training script / validation)</summary>
 
