@@ -9,5 +9,6 @@ dependencies = []
 [tool.setuptools.packages.find]
 where = [
     "pipe_forcing",
-    "Wan21"
+    "Wan21",
+    "wavefront_test"
 ]
